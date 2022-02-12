@@ -1,0 +1,1619 @@
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 0 Y: 0
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 8
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando porto 
+Coordenadas do alvo: 4 7 || Distancia do alvo: 7 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 8
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 3 7 || Distancia do alvo: 7 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 2 7 || Distancia do alvo: 7 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 0 7 || Distancia do alvo: 7 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 5
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando porto 
+Coordenadas do alvo: 5 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 3
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 4 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 3 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 3 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 1 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 0 2 || Distancia do alvo: 2 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 0
+Coordenadas do Alvo: X: 1 Y: 0
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 0
+Coordenadas do Alvo: X: 1 Y: 0
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 0
+Coordenadas do Alvo: X: 1 Y: 0
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 0
+Coordenadas do Alvo: X: 1 Y: 0
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 0
+Coordenadas do Alvo: X: 3 Y: 0
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 0
+Coordenadas do Alvo: X: 3 Y: 0
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 0
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 3 Y: 0
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 0
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 0
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 1
+Coordenadas do Alvo: X: 5 Y: 2
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 2
+Coordenadas do Alvo: X: 5 Y: 2
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 2
+Coordenadas do Alvo: X: 5 Y: 2
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 2
+Coordenadas do Alvo: X: 5 Y: 2
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando porto 
+Coordenadas do alvo: 3 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 3 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 1 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 0 2 || Distancia do alvo: 2 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 3
+Coordenadas do Alvo: X: 1 Y: 3
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 3
+Coordenadas do Alvo: X: 1 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 3
+Coordenadas do Alvo: X: 1 Y: 3
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando porto 
+Coordenadas do alvo: 4 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 3
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 3 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 1 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 0 2 || Distancia do alvo: 2 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 3
+Coordenadas do Alvo: X: 1 Y: 3
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 3
+Coordenadas do Alvo: X: 1 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 3
+Coordenadas do Alvo: X: 1 Y: 3
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 5
+Coordenadas do Alvo: X: 0 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 5
+Coordenadas do Alvo: X: 0 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 5
+Coordenadas do Alvo: X: 0 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 5
+Coordenadas do Alvo: X: 0 Y: 5
+Rastreando porto 
+Coordenadas do alvo: 5 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 4 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 3
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 3 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 1 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 0 2 || Distancia do alvo: 2 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 1
+Coordenadas do Alvo: X: 1 Y: 1
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 3
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 5
+Coordenadas do Alvo: X: 2 Y: 5
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 5
+Coordenadas do Alvo: X: 1 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 5
+Coordenadas do Alvo: X: 1 Y: 5
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 5
+Coordenadas do Alvo: X: 0 Y: 5
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 5
+Coordenadas do Alvo: X: 0 Y: 5
+Rastreando porto 
+Coordenadas do alvo: 5 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 4 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 3
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 3 2 || Distancia do alvo: 2 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 1 2 || Distancia do alvo: 2 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 0 2 || Distancia do alvo: 2 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 3 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 3
+Coordenadas do Alvo: X: 4 Y: 3
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 4
+Coordenadas do Alvo: X: 5 Y: 4
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA mimosa ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 4
+Coordenadas do Alvo: X: 6 Y: 4
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 3
+Coordenadas do Alvo: X: 5 Y: 2
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 2
+Coordenadas do Alvo: X: 5 Y: 2
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 1
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA mimosa ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 0
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 0
+Coordenadas do Alvo: X: 6 Y: 0
+Rastreando porto 
+Coordenadas do alvo: 6 2 || Distancia do alvo: 2 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 1
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 5 2 || Distancia do alvo: 2 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 4 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 3 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 2 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 3 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 1 2 || Distancia do alvo: 2 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando porto 
+Coordenadas do alvo: 0 2 || Distancia do alvo: 2 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 2
+Coordenadas do Alvo: X: 2 Y: 2
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 3
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 2 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 1 Y: 4
+Coordenadas do Alvo: X: 1 Y: 4
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA mimosa ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 0 Y: 4
+Coordenadas do Alvo: X: 0 Y: 4
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA mimosa ===========
+Es

@@ -1,0 +1,1520 @@
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 0 Y: 0
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 3 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 2 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 0 7 || Distancia do alvo: 7 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 4 Y: 7
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA palida ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 8
+Coordenadas do Alvo: X: 4 Y: 8
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 8
+Coordenadas do Alvo: X: 4 Y: 8
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 8
+Coordenadas do Alvo: X: 4 Y: 8
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 8
+Coordenadas do Alvo: X: 4 Y: 8
+Rastreando porto 
+Coordenadas do alvo: 4 7 || Distancia do alvo: 7 
+Direção: Esquerda 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 4 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 3 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 5 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 2 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA palida ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 0 7 || Distancia do alvo: 7 
+Direção: Estamos em cima do alvo!! 
+Vendendo peixe 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA palida ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Ci

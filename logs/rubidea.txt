@@ -1,0 +1,1693 @@
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 0 Y: 0
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 7
+Coordenadas do Alvo: X: 6 Y: 7
+Rastreando peixe 
+Direção: Esquerda 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 0 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 1 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 2 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 3 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 4 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 5 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 8 Y: 6
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 6
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 7
+Coordenadas do Alvo: X: 9 Y: 7
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 8
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Direita 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 6 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 7 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 9 Y: 9
+Coordenadas do Alvo: X: 9 Y: 9
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 8 Y: 9
+Coordenadas do Alvo: X: 6 Y: 9
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 7 Y: 9
+Coordenadas do Alvo: X: 6 Y: 9
+Rastreando peixe 
+Direção: Cima 
+
+============ PARTIDA rubidea ===========
+Estoque: 8 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 9
+Coordenadas do Alvo: X: 6 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 9 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 9
+Coordenadas do Alvo: X: 6 Y: 9
+Rastreando peixe 
+Direção: Estamos em cima do alvo!! 
+Pescando peixe 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 9
+Coordenadas do Alvo: X: 6 Y: 9
+Rastreando porto 
+Coordenadas do alvo: 3 7 || Distancia do alvo: 7 
+Direção: Esquerda 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 8
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 2 7 || Distancia do alvo: 7 
+Direção: Esquerda 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA rubidea ===========
+Estoque: 10 kg 
+====================================
+Coordenadas do barco: X: 6 Y: 7
+Coordenadas do Alvo: X: 7 Y: 7
+Rastreando porto 
+Coordenadas do alvo: 1 7 || Distancia do alvo: 7 
+Direção: Baixo 
+
+============ PARTIDA ru
